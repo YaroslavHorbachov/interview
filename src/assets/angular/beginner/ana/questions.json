@@ -1,0 +1,895 @@
+[
+  {
+    "level": "Beginner",
+    "question": "What is Angular ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is component in theory?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What and why could use Angular CLI ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to declare component ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is selector ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is template? Which ways to define template ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is styles ? Which ways to define styles?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is component lifecycle ? ",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to respond to lifecycle events ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "Lifecycle events sequence ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What should be done within ngOnInit ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What should be done within ngOnDestroy ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "View Encapsulation",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "View Encapsulation modes",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is component interactions. What is default approaches ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is Input decorator ? Example of usages",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "Can we parametrize input decorators ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How we can intercept the input changes?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is Output decorator ? Example of usages",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is EventEmitter ? Example of usages",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is locale template variable ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the ViewChild ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the ContentChild ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How components could interact with each other by service ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the default style scope for component ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is content projection ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is single-slot projection ? How to implement ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is dynamic component ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is template for component?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is text interpolation ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is template expressions ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the template statements ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the template context ? What we could be used at template ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the pipe ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What are the default built-in pipes?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the pipe operator ? Where we can use pipes ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the pipe chaining ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to create a custom pipe ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is property binding ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What and how we can bind by using property binding ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is event binding ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "Which events we can bind ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to bind custom events ? Example",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is $event object ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is two-way data binding ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is main purpose for the template variable ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What we can access by template variable ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the visibility scope for template variable ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is directive ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is available types of directives ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is attribute directive ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is most common attribute directives ?",
+    "hint": "NgClass, NgStyle",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is NgClass ? How it works ? Example of usages",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is NgStyle ? How it works ? Example of usages",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is difference between NgStyle and NgClass ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is structural directive ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is most common structural directives ?",
+    "hint": "NgIf, NgFor",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is NgIf ? How it works ? Example of usages",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is NgFor ? How it works ? Example of usages",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is NgSwitch ? How it works ? Example of usages",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is NgSwitchDefault ? How it works ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is difference between structural and attribute directive ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to create custom attribute directive ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to implement attribute directive functionalities ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the HostBinding ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the HostListener ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to take event object from the HostListener ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to pass input parameters to directive ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is dependency injection ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is dependency injection ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the service ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the best practices for define the service ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to define provider scope for the service ? Do we need to register service ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is providedIn property at Injectable decorator ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to inject service ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is providers property ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "hint": "NgModule",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to define providers ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the NgModule ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the main purpose of NgModule ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is included into NgModule metadata ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is providers in scope of NgModule ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is declarations in scope of NgModule ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is imports in scope of NgModule ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is bootstrap in scope of NgModule ? What should be placed here  ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is exports in scope of NgModule ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is frequently-used Angular modules ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is routing module ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is sharing modules ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is singleton service ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is singleton service ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to provide singleton service ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is RxJS ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is Observable ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "Do the observables asynchronous ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the subscribe purpose for Observable?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the Subscription ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is the Observer ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "hint": "next,error,complete",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to create an observable ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "What mean the next method for the observer ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "What mean the complete method for the observer ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "What the cold observable ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "What the hot observable ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "Do the observables unicast or multicast by default ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "How unicast works ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "How to handle errors ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is operator ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "What is common operators ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "How Angular uses observables ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "hint": "EventEmitter, Router, Http",
+    "technology": "RxJS"
+  },
+  {
+    "level": "Beginner",
+    "question": "What the Angular Routing?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What the Angular Forms?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  },
+  {
+    "level": "Beginner",
+    "question": "What Angular uses for communication with backed services ?",
+    "practiceScore": "NotFamiliar",
+    "knowledgeScore": "NotFamiliar",
+    "note": "",
+    "technology": "Angular"
+  }
+]
