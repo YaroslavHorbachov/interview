@@ -47,11 +47,11 @@ async function createInterviewQuestions(options: CreateInterviewOptions) {
   await writeFile(`src/assets/${filename}.json`, data);
 }
 
-// createInterviewQuestions({
-//   levels: [Levels.Beginner],
-//   technologies: [Technologies.Angular, Technologies.RxJS],
-//   filename: 'angular-beginner-ana',
-// });
+createInterviewQuestions({
+  levels: [Levels.Beginner],
+  technologies: [Technologies.JavaScript, Technologies.DOM],
+  filename: 'javascript-beginner-alex',
+});
 
 function computeMinimumPracticeCount(total: number) {
   return (total / 100) * MINIMUM_PRACTICE_PERCENTAGE;
@@ -129,4 +129,4 @@ async function computePerformance(options: InterviewPerformanceOptions) {
   console.log(aggregator);
 }
 
-computePerformance({ path: ['angular', 'beginner', 'ana'] });
+// computePerformance({ path: ['angular', 'beginner', 'ana'] });
