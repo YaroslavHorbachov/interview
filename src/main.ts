@@ -129,4 +129,4 @@ async function computePerformance(options: InterviewPerformanceOptions) {
   console.log(aggregator);
 }
 
-computePerformance({ path: ['javascript', 'beginner', 'alex'] });
+computePerformance({ path: ['javascript', 'beginner', 'olexiiy'] });

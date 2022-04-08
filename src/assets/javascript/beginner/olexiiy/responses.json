@@ -1,0 +1,308 @@
+
+[
+    {
+      "level": "Beginner",
+      "question": "What is Javascript ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is dynamic typing ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Intermediate",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is static typing ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Intermediate",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is data type ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is literal ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is available data types in JS ?",
+      "practiceScore": "Intermediate",
+      "knowledgeScore": "Intermediate",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is primitive ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Intermediate",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is reference type ?",
+      "practiceScore": "Intermediate",
+      "knowledgeScore": "Intermediate",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is duck typing ?",
+      "practiceScore": "NotFamiliar",
+      "knowledgeScore": "NotFamiliar",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is boxing ?",
+      "practiceScore": "NotFamiliar",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is object in JS ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "NotFamiliar",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is collection / In JS ?",
+      "practiceScore": "NotFamiliar",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is function ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is HOF (High Order Function) ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Intermediate",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is pure function ?",
+      "practiceScore": "NotFamiliar",
+      "knowledgeScore": "NotFamiliar",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is OOP ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Intermediate",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is SOLID ?",
+      "practiceScore": "NotFamiliar",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is FP ?",
+      "practiceScore": "NotFamiliar",
+      "knowledgeScore": "NotFamiliar",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is DRY / YAGNI / KISS ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is closure ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is scope ?",
+      "practiceScore": "Intermediate",
+      "knowledgeScore": "Intermediate",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is lexical scope ?",
+      "practiceScore": "NotFamiliar",
+      "knowledgeScore": "NotFamiliar",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is variable shadowing ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Intermediate",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is global variable ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is this ?",
+      "practiceScore": "Intermediate",
+      "knowledgeScore": "Intermediate",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is call / apply / bind ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is prototype ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "NotFamiliar",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is constructor ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is __proto__ ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is field / property / method ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "NotFamiliar",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is asynchronous programming ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Intermediate",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is callback ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is Promise ?",
+      "practiceScore": "NotFamiliar",
+      "knowledgeScore": "NotFamiliar",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is the use cases of Promise ?",
+      "practiceScore": "NotFamiliar",
+      "knowledgeScore": "NotFamiliar",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is the run condition ?",
+      "practiceScore": "NotFamiliar",
+      "knowledgeScore": "NotFamiliar",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is the callback hell / promise hell ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is the async / await ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is singleton in theory ?",
+      "practiceScore": "Elementary",
+      "knowledgeScore": "Elementary",
+      "note": "",
+      "technology": "JavaScript"
+    }
+  ]
+  
